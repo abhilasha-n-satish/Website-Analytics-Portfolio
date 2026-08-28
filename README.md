@@ -16,6 +16,20 @@ That AI-referred traffic is small in volume but the best in quality. Lowest boun
 - **Page 3:** Here is what to do next. The recovery is underway. Use the sliders to model how much faster it gets there if you push harder on the channels that are working.
 
 
+## Screenshots
+**Page 1: Overview**
+
+
+
+**Page 2: Comparison View**
+
+
+
+**Page 3: What-If Analysis**
+
+
+
+
 ## Architecture
 
 ```
