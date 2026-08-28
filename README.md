@@ -17,17 +17,22 @@ That AI-referred traffic is small in volume but the best in quality. Lowest boun
 
 
 ## Screenshots
+
+**Home Page**
+
+![Home](Home.png)
+
 **Page 1: Overview**
 
-
+![Overview](Overview.png)
 
 **Page 2: Comparison View**
 
-
+![Comparison View](Comparison%20view.png)
 
 **Page 3: What-If Analysis**
 
-
+![What-If](What_if.png)
 
 
 ## Architecture
